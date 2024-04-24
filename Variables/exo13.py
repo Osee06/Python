@@ -1,0 +1,10 @@
+a=24
+b=42
+temp=a
+a=b
+b=temp
+print(f'a={a} ainsi que '
+      f'b={b}, après transfert, on a: '
+      f'a={a} & '
+      f'b={b}')
+#ou a,b=b,a

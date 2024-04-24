@@ -4,3 +4,5 @@ print(
     f'Code '
     f'Forever'
     )
+"""
+dgdhdjkdldlldlldkdldkdjdhdn ddhdjdkd jdjjdkd"""

@@ -23,3 +23,10 @@ j=0
 for i in l_mult:#Essayer de modifier l'afficher quand i change: passer par un res? ou if j==11
     for j in range(0,11):
         print("La table de multiplication de", i," est la suivante:",i,"*",j,"=",i*j)
+
+#Avec Fonction Map
+def myfunc(a,b):
+    return [a*i for i in range(11)]
+
+liste=[1,2,3,5,8]
+list(map(myfunc ,liste))
